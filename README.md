@@ -1,7 +1,7 @@
 # mandelbrot_sfml
 A multi-threaded mandelbrot renderer with sfml
 
-![mandelbrot_sfml screenshot](mandelbrot_sfml.png)
+![fractal](fractal.gif)
 
 # IMPORTANT
 SFML is required to compile this project. You can get it here: **https://www.sfml-dev.org/download.php**
